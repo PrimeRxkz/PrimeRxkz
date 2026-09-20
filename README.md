@@ -5,6 +5,11 @@
 #### 💻 Computer Student • 🥊 Boxer • 🎵 Music Enthusiast
 
 #### 16 years old • Tehran, Iran🦁
+<p align="center">
+  <a href="https://github.com/PrimeRkz">GitHub</a> •
+  <a href="https://www.instagram.com/deadrxkz?stkn=M3o5dTJ3dzN0bmx1">Instagram</a>  •
+  <a href="https://t.me/RxkzMusic">Telegram</a>
+</p>
 
 <br clear="all">
 
