@@ -1,6 +1,6 @@
-<img src="./673562be-b689-4ee7-8360-f0f050286994.png" width="140" align="right">
+<img src="./673562be-b689-4ee7-8360-f0f050286994.png" width="180" align="right">
 
-### Hey, I'm Arsalan
+### Heyyyy I'm Arsalan
 
 #### 💻 Computer Student • 🥊 Boxer • 🎵 Music Enthusiast
 
